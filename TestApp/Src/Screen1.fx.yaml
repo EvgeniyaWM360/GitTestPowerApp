@@ -58,7 +58,7 @@ Screen1 As screen:
 
         Button1_2 As button:
             OnSelect: =Reset(TextInput1_2)
-            Text: ="Button 2_2"
+            Text: ="Button 3"
             X: =442
             Y: =246
             ZIndex: =6
