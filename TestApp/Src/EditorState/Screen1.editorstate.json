@@ -490,14 +490,7 @@
   "Button1_2": {
     "AllowAccessToGlobals": true,
     "ControlPropertyState": [
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "\"Button\"",
-        "InvariantPropertyName": "Text",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
+      "Text",
       "BorderColor",
       "DisabledBorderColor",
       "PressedBorderColor",
