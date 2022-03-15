@@ -1,2 +1,16 @@
 Screen1 As screen:
 
+    TextInput1 As text:
+        Default: =
+        HintText: ="enter value"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+    Button1 As button:
+        OnSelect: =Reset(TextInput1)
+        Text: ="Button"
+        X: =442
+        Y: =40
+        ZIndex: =2
+

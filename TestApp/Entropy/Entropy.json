@@ -2,10 +2,12 @@
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Screen1": 3
+    "Button1": 5,
+    "Screen1": 3,
+    "TextInput1": 4
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:35:33",
+  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:40:37",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -15,10 +17,15 @@
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "text": 0
+  },
   "PublishOrderIndices": {
     "App": 0,
-    "Screen1": 0
+    "Button1": 0,
+    "Screen1": 0,
+    "TextInput1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
