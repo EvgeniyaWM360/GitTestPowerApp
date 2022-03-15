@@ -1,7 +1,25 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 5,
+    "Button1_1": 8,
+    "Button1_2": 9,
+    "Canvas1": 16,
+    "DataCard1": 17,
+    "Group1": 10,
+    "Group2": 11,
+    "Group2_1": 12,
+    "LblAppName1": 15,
+    "RectQuickActionBar1": 14,
+    "Screen1": 3,
+    "Screen2": 13,
+    "TextInput1": 4,
+    "TextInput1_1": 6,
+    "TextInput1_2": 7
+  },
   "FunctionParamsInvariantScripts": {},
+  "HeaderLastSavedDateTimeUTC": "03/15/2022 08:10:18",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -9,10 +27,61 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
-  "OrderGroupControls": {},
+  "OrderGroupControls": {
+    "Group1": {
+      "Button1": 1,
+      "TextInput1": 0
+    },
+    "Group2": {
+      "Button1_1": 1,
+      "TextInput1_1": 0
+    },
+    "Group2_1": {
+      "Button1_2": 1,
+      "TextInput1_2": 0
+    }
+  },
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "fluidGrid": 4,
+    "label": 3,
+    "rectangle": 2,
+    "text": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 4,
+    "Button1_1": 7,
+    "Button1_2": 8,
+    "Canvas1": 15,
+    "DataCard1": 16,
+    "Group1": 9,
+    "Group2": 10,
+    "Group2_1": 11,
+    "LblAppName1": 14,
+    "RectQuickActionBar1": 13,
+    "Screen1": 2,
+    "Screen2": 12,
+    "TextInput1": 3,
+    "TextInput1_1": 5,
+    "TextInput1_2": 6
+  },
   "ResourcesJsonIndices": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0423545,
+    "ControlCount": {
+      "button": 3,
+      "dataCard": 1,
+      "fluidGrid": 1,
+      "group": 3,
+      "label": 1,
+      "rectangle": 1,
+      "screen": 2,
+      "text": 3
+    },
+    "DeserializationLoadTime": 0.5838261,
+    "ErrorCount": 0
+  }
 }
