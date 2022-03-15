@@ -4,12 +4,17 @@
     "App": 1,
     "Button1": 5,
     "Button1_1": 7,
+    "Button1_2": 11,
+    "Group1": 8,
+    "Group2": 9,
+    "Group2_1": 12,
     "Screen1": 3,
     "TextInput1": 4,
-    "TextInput1_1": 6
+    "TextInput1_1": 6,
+    "TextInput1_2": 10
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:41:49",
+  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:46:37",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -17,7 +22,20 @@
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
-  "OrderGroupControls": {},
+  "OrderGroupControls": {
+    "Group1": {
+      "Button1": 1,
+      "TextInput1": 0
+    },
+    "Group2": {
+      "Button1_1": 1,
+      "TextInput1_1": 0
+    },
+    "Group2_1": {
+      "Button1_2": 1,
+      "TextInput1_2": 0
+    }
+  },
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 1,
@@ -25,19 +43,25 @@
   },
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 0,
-    "Button1_1": 0,
+    "Button1": 1,
+    "Button1_1": 3,
+    "Button1_2": 3,
+    "Group1": 0,
+    "Group2": 0,
+    "Group2_1": 0,
     "Screen1": 0,
     "TextInput1": 0,
-    "TextInput1_1": 0
+    "TextInput1_1": 2,
+    "TextInput1_2": 2
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0161257,
     "ControlCount": {
-      "button": 1,
-      "text": 1
+      "button": 2,
+      "group": 1,
+      "text": 2
     },
     "ErrorCount": 0
   }
