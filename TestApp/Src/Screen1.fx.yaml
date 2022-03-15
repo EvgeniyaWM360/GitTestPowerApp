@@ -14,3 +14,17 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
+    TextInput1_1 As text:
+        Default: =
+        HintText: ="enter value"
+        X: =40
+        Y: =148
+        ZIndex: =3
+
+    Button1_1 As button:
+        OnSelect: =Reset(TextInput1_1)
+        Text: ="Button"
+        X: =442
+        Y: =148
+        ZIndex: =4
+

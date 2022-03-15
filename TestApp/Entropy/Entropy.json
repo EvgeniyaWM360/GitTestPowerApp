@@ -3,11 +3,13 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 5,
+    "Button1_1": 7,
     "Screen1": 3,
-    "TextInput1": 4
+    "TextInput1": 4,
+    "TextInput1_1": 6
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:40:37",
+  "HeaderLastSavedDateTimeUTC": "03/15/2022 07:41:49",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -24,14 +26,19 @@
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 0,
+    "Button1_1": 0,
     "Screen1": 0,
-    "TextInput1": 0
+    "TextInput1": 0,
+    "TextInput1_1": 0
   },
   "ResourcesJsonIndices": {},
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0161257,
-    "ControlCount": {},
+    "ControlCount": {
+      "button": 1,
+      "text": 1
+    },
     "ErrorCount": 0
   }
 }
