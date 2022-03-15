@@ -63,3 +63,24 @@ Screen1 As screen:
             Y: =246
             ZIndex: =6
 
+    Group2_2 As group:
+        Height: =5
+        Width: =5
+        X: =20
+        Y: =20
+        ZIndex: =9
+
+        TextInput1_3 As text:
+            Default: =
+            HintText: ="enter value"
+            X: =60
+            Y: =266
+            ZIndex: =7
+
+        Button1_3 As button:
+            OnSelect: =Reset(TextInput1_3)
+            Text: ="Button 3"
+            X: =462
+            Y: =266
+            ZIndex: =8
+
